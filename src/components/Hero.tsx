@@ -25,7 +25,7 @@ function Hero() {
                     <div className='bg-primaryYellow w-[80px] h-[80px] rounded-full '></div>
 
                 </div>
-                <div className='font-syne text-[20px] font-bold leading-[90px] text-headingGrey'>Website Developer | Based in India</div>
+                <div className='font-syne text-[20px] font-bold leading-[90px] text-headingGrey'>Website Designer | Based in India</div>
 
                 <div className='flex gap-4'>
 
